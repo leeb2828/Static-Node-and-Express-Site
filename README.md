@@ -22,4 +22,4 @@ Changes made to the CSS:
 - Every element in the file that has been changed/added is marked with a 
 - - /* Changed by Lee Haney */ above the element.
 
-Live link: 
+Live link: https://leeb2828.github.io/Static-Node-and-Express-Site/
