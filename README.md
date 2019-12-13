@@ -23,3 +23,5 @@ Changes made to the CSS files:
 - Files affected: style.css and foundation.css
 - Every element in the two CSS files that has been changed/added is marked with a _/* Changed by Lee Haney */_ above every element.
 
+Live link: https://lee-haney-proj-portfolio.herokuapp.com/ 
+
