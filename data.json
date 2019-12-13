@@ -1,0 +1,65 @@
+{
+    "projects": 
+    [
+        {
+            "id": "0",
+            "project_name": "A Random Quote Generator",
+            "description": "Generate a random quote and display it on the page.",
+            "technologies": ["HTML", "CSS", "JavaScript"],
+            "live_link": "https://leeb2828.github.io/Random_Quote_Generator/",
+            "github_link": "https://github.com/leeb2828/Random_Quote_Generator",
+            "image_urls": ["/static/images/PROJECT_1/proj1_index.png", 
+                           "/static/images/PROJECT_1/one_1.png", 
+                           "/static/images/PROJECT_1/one_2.png",
+                           "/static/images/PROJECT_1/one_3.png"]
+        },  
+        {
+            "id": "1",
+            "project_name": "List Pagination and Filtering",
+            "description": "Create a pagination and search feature for lists of students.",
+            "technologies": ["HTML", "CSS", "JavaScript"],
+            "live_link": "https://leeb2828.github.io/List-Pagination-and-Filtering/",
+            "github_link": "https://github.com/leeb2828/List-Pagination-and-Filtering",
+            "image_urls": ["/static/images/PROJECT_2/proj2_index.png", 
+                           "/static/images/PROJECT_2/two_1.png", 
+                           "/static/images/PROJECT_2/two_2.png",
+                           "/static/images/PROJECT_2/two_3.png"]
+        }, 
+        {
+            "id": "2",
+            "project_name": "Interactive Form",
+            "description": "Make a web form interactive by using jQuery.",
+            "technologies": ["HTML", "CSS", "JavaScript", "jQuery"],
+            "live_link": "https://leeb2828.github.io/Interactive_Form/",
+            "github_link": "https://github.com/leeb2828/Interactive_Form",
+            "image_urls": ["/static/images/PROJECT_3/proj3_index.png", 
+                           "/static/images/PROJECT_3/three_1.png", 
+                           "/static/images/PROJECT_3/three_2.png",
+                           "/static/images/PROJECT_3/three_3.png"]
+        }, 
+        {
+            "id": "3",
+            "project_name": "Game Show App (Phrase-Hunter)",
+            "description": "Build a browser-based, word guessing game.",
+            "technologies": ["HTML", "CSS", "JavaScript", "Object-Oriented JavaScript"],
+            "live_link": "https://leeb2828.github.io/Phrase-Hunter/",
+            "github_link": "https://github.com/leeb2828/Phrase-Hunter",
+            "image_urls": ["/static/images/PROJECT_4/proj4_index.png", 
+                           "/static/images/PROJECT_4/four_1.png", 
+                           "/static/images/PROJECT_4/four_2.png",
+                           "/static/images/PROJECT_4/four_3.png"]
+        }, 
+        {
+            "id": "4",
+            "project_name": "Public API Requests",
+            "description": "Fetch data from a web API to display 12 employees.",
+            "technologies": ["HTML", "CSS", "JavaScript", "Object-Oriented JavaScript"],
+            "live_link": "https://leeb2828.github.io/Public-API-Requests/",
+            "github_link": "https://github.com/leeb2828/Public-API-Requests",
+            "image_urls": ["/static/images/PROJECT_5/proj5_index.png", 
+                           "/static/images/PROJECT_5/five_1.png", 
+                           "/static/images/PROJECT_5/five_2.png",
+                           "/static/images/PROJECT_5/five_3.png"]
+        }
+    ]
+}
